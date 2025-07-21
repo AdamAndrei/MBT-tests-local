@@ -1,0 +1,1 @@
+RunAction "Logout", oneIteration

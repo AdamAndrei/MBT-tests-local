@@ -1,1 +1,0 @@
-RunAction "FirstComponent", oneIteration
